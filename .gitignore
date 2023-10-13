@@ -1,0 +1,6 @@
+__pycache__
+.mypy_cache
+.vscode
+ex1_copiafirefox.html
+ex2_copiafirefox.html
+.venv
